@@ -6,6 +6,6 @@ It would be a choice if you don't like the material style on iOS
 
 ## Example
 
-Compare the transition animation on top navigation bar while you are going back to preview page
+Compare the transition animation on top navigation bar while you are going back to previous page
 
 <img src="cupertino-style.GIF" width="300"/><img src="material-style.GIF" width="300"/>
